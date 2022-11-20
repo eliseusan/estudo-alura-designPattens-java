@@ -13,7 +13,4 @@ public class Orcamento {
 	public BigDecimal getValor() {
 		return valor;
 	}
-
-	
-	
 }
